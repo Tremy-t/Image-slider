@@ -1,7 +1,7 @@
 ##Preview 
 https://tremy-t.github.io/Image-slider/
 
-🔧 How to Use
+🔧 How to Use<br>
 Copy the HTML and CSS into your project.
 
 Replace the image URLs with your own images.
