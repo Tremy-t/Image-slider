@@ -8,4 +8,12 @@ Replace the image URLs with your own images.
 
 Hover over the slider to see the effect.
 
+💡 Features
+Smooth hover transition
+
+Pure HTML & CSS
+
+Easy to customize
+
+Lightweight and responsive
 
